@@ -1,0 +1,15 @@
+O commit é um registro permanente das mudanças no histórico do projeto.
+
+git commit -m “Mensagem de registro da mudança"
+
+Sequência para commit:
+
+1. Fazer alteração
+2. comando: git add .
+3. comando: git commit -m "Descrição da alteração"
+
+Antes do primeiro commit é necessário configurar nome e email:
+1. git config --global user.name “Seu nome”
+2. git config --global user.email “Seu e-mail”
+
+Essa ação só precisar ser feita uma única vez por computador

@@ -1,0 +1,11 @@
+Status de arquivo:
+
+-----------------------------------------------------------------------
+| Letra | Nome      | Significado                                      |
+-----------------------------------------------------------------------
+| U     | Untracked | Arquivo novo, Git ainda não está versionando     |
+| M     | Modified  | Arquivo foi alterado                             |
+| A     | Added     | Arquivo adicionado à stage                       |
+| D     | Deleted   | Arquivo foi removido                             |
+| R     | Renamed   | Arquivo foi renomeado                            |
+-----------------------------------------------------------------------

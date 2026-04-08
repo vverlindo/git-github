@@ -1,0 +1,5 @@
+Inicializar um repositório:
+
+git init
+
+Depois do comando, o git irá monitorar as mudanças que ocorrerem na pasta.

@@ -1,0 +1,11 @@
+Git é uma ferramenta de versionamento.
+
+Ele permite guardar o histórico de mudanças de um projeto.
+
+Versionar é:
+- Registrar alterações ao longo do tempo
+- Saber quem mudou
+- Saber quando mudou
+- Entender o porquê da mudança
+
+É uma ferramenta instalada localmente no computador.
